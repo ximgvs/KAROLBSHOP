@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_EliminarProducto.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Controlador/C_VerProducto.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Modelo/M_ModificarProveedor.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Modelo/M_EliminarProveedor.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Modelo/M_VerCliente.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Controlador/C_VerProveedor.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/Login.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_ModificarProducto.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Modelo/M_EliminarCliente.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Controlador/C_RegistrarProducto.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Controlador/C_ModificarCliente.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Controlador/C_VerCliente.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Modelo/M_EliminarProducto.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Modelo/M_VerProveedor.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_EliminarCliente.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_RegistrarProveedor.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Controlador/C_DetalleVenta.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Controlador/C_ModificarProveedor.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Modelo/M_VerProducto.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Modelo/M_ModificarProducto.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_EliminarProveedor.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_VerCliente.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Controlador/C_RegistrarProveedor.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_Pagos.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Controlador/C_ModificarProducto.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_VerProducto.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Controlador/C_EliminarProducto.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Modelo/M_RegistrarProveedor.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_RegistrarCliente.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Modelo/M_RegistrarCliente.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Modelo/M_DetalleVenta.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_Venta.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_Tarjeta.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Modelo/M_ModificarCliente.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_DetalleVenta.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Controlador/C_RegistrarCliente.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_RegistrarProducto.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_ModificarCliente.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_ModificarProveedor.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_VerProveedor.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Vista/frm_EliminarVenta.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Controlador/C_EliminarProveedor.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Modelo/M_RegistrarProducto.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Controlador/C_Venta.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Controlador/C_EliminarCliente.java</file>
+            <file>file:/C:/Users/zahit/OneDrive/Documentos/NetBeansProjects/TIENDAKAROL___1/src/Modelo/M_Venta.java</file>
+        </group>
+    </open-files>
+</project-private>
